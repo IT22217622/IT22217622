@@ -27,15 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Avishka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avishka&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Avishka&theme=tokyonight)  
-
----
 
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
